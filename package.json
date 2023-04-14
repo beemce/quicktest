@@ -1,0 +1,22 @@
+{
+  "name": "quicktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beemce/quicktest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beemce/quicktest/issues"
+  },
+  "homepage": "https://github.com/beemce/quicktest#readme",
+  "dependencies": {
+    "video.js": "^8.2.0"
+  }
+}
